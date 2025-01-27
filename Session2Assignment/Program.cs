@@ -225,6 +225,7 @@ namespace Session2Assignment
         #endregion
         static void Main(string[] args)
         {
+
             #region Question1
             ////Question1
             //Console.WriteLine("Enter the size of the array:");
